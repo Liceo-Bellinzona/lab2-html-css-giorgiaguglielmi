@@ -3,7 +3,8 @@ h1 {
 }
 
 .block {
-    background-color: rgb(241, 221, 221);
+
+    background-color: rgb(241, 211, 221);
     border-style: solid;
     border-width: 2px;
     border-radius: 30px;
@@ -12,7 +13,7 @@ h1 {
     padding-right: 15px;
     padding-top: 10px;
     padding-bottom: 10px;
-    margin-left: 5%;
+    margin-left: %;
     margin-right: 5%;
 }
 
@@ -21,5 +22,22 @@ img {
     width: 50%;
     margin: auto;
     display: block;
+    border-radius: 15px;
 
+}
+
+h2 {
+    color: pink;
+    text-align: center;
+    background-color: aliceblue;
+    border-radius: 15px;
+}
+
+h1 {
+    color: rgb(241, 221, 221);
+    text-align: center;
+}
+
+ul {
+    background-color: rgb(241, 211, 221);
 }
