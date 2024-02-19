@@ -41,3 +41,9 @@ h1 {
 ul {
     background-color: rgb(241, 211, 221);
 }
+a:hover{
+    text-decoration-line: none;
+    color: hotpink;}
+a{
+    text-decoration-line: none;
+}
